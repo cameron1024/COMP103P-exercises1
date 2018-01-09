@@ -1,0 +1,3 @@
+this is a palindrome emordnilap a si siht
+12321
+abcdcba
